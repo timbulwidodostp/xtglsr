@@ -1,0 +1,4 @@
+D 'xtglsr': Calculate robust, or cluster-robust variance after xtgls Use xtglsr With STATA 19
+D
+F xtglsr.ado
+F xtglsr.sthlp
