@@ -1,6 +1,8 @@
 # xtglsr
 Calculate robust, or cluster-robust variance after xtgls Use xtglsr With STATA 19
 
+https://www.youtube.com/watch?v=Zqry4FUz7_Y
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
